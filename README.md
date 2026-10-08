@@ -27,7 +27,7 @@ Python · pdfplumber · Vector DB
 
 ---
 
-### 02. 양자난수 생성 및 통계적 검증
+### 02. 난수 생성 및 통계적 검증
 실험장비 구성 → 난수 생성 → 확률분포 분석 → NIST SP 800-22 검증
 
 Python · Probability · Statistical Analysis
