@@ -18,7 +18,16 @@
 
 ## Projects
 
-### 01. PDF 기반 챗봇
+### 01. 데이터 파이프라인 구현
+PDF 구조 분석 → 데이터 추출 → Chunking → Embedding → Vector DB
+
+Python · sqlite3 · 
+
+[View Project](./livestock-data-pipeline)
+
+---
+
+### 02. PDF 기반 챗봇
 PDF 구조 분석 → 데이터 추출 → Chunking → Embedding → Vector DB
 
 Python · pdfplumber · Vector DB
@@ -27,7 +36,7 @@ Python · pdfplumber · Vector DB
 
 ---
 
-### 02. 난수 생성 및 통계적 검증
+### 03. 난수 생성 및 통계적 검증
 실험장비 구성 → 난수 생성 → 확률분포 분석 → NIST SP 800-22 검증
 
 Python · Probability · Statistical Analysis
@@ -36,7 +45,7 @@ Python · Probability · Statistical Analysis
 
 ---
 
-### 03. 통계조사시스템 고도화
+### 04. 통계조사시스템 고도화
 데이터 표준화 → ETL → QA → 데이터마트 → 시각화 검증
 
 Python · PostgreSQL · Apache Airflow
@@ -45,7 +54,7 @@ Python · PostgreSQL · Apache Airflow
 
 ---
 
-### 04. 연구 데이터 수집 업무 자동화
+### 05. 연구 데이터 수집 업무 자동화
 반복적인 웹 데이터 수집 및 업로드 프로세스 자동화
 
 Python · Playwright · Linux Cron
