@@ -18,10 +18,10 @@
 
 ## Projects
 
-### 01. 데이터 파이프라인 구현
-PDF 구조 분석 → 데이터 추출 → Chunking → Embedding → Vector DB
+### 01. 가격 데이터 통합 및 Data Mart 구축
+공공데이터 수집 → ETL → Dynamic Pivot → Data Mart 통합 → 자동 갱신
 
-Python · sqlite3 · 
+Python · SQLite · Pandas · Dynamic SQL
 
 [View Project](./livestock-data-pipeline)
 
