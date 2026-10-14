@@ -64,9 +64,9 @@ Python · Playwright · Linux Cron
 ---
 
 ### 06. 일회성 크롤링 및 ETL
-요청받은 크롤링, ETL 작업물
+요청받은 단순 크롤링, ETL 작업물 모음
 
-Python, ETL, Playwright
+Python, ETL, crawl
 
 [View Project](./python-snippets)
 
