@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # 웹드라이버 경로 설정 (ChromeDriver 예시)
-driver = webdriver.Chrome() #드라이버 경로 없어도 됨 #executable_path = 'C:\\Users\\user\\PycharmProjects\\PythonProject\\chromedriver-win64\\chromedriver-win64')
+driver = webdriver.Chrome()
 driver.get("https://agis.epis.or.kr/ASD/main/intro.do#Wrap")
 
 # 팜맵통계 버튼 누르기 , 버튼을 xpath로 찾음
