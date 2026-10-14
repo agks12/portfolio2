@@ -1,4 +1,4 @@
-# 🛠️ Python One-Off Scripts & Utils
+# 🛠️  python-snippets
 
 > 요청에 따라 그때그때 처리하는 일회성 크롤링, 데이터 정제, 엑셀 통합 등 유용한 파이썬 스크립트 모음입니다.
 
