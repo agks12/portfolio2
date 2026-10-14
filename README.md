@@ -63,7 +63,7 @@ Python · Playwright · Linux Cron
 
 ---
 
-### 06. 일회성 요청 받은 작업 결과물
+### 06. 크롤링 및 ETL 외 작업
 요청받은 크롤링, ETL 작업들
 
 Python, ETL, Playwright
